@@ -1,0 +1,13 @@
+[
+    {
+        "pid": "12967",
+        "disease": "大腸癌",
+        "period": "二",
+        "size": "2.5",
+        "CA": "是",
+        "CASpace": "肝",
+        "treat": "標靶治療",
+        "drugs": "Sutent",
+        "drugAllergy": "無"
+    }
+]
